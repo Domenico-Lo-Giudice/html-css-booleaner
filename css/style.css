@@ -1,10 +1,30 @@
 .container {
     background-color: rgb(67, 142, 204);
     background-image: url(../img/pattern.png);
-    
+
 }
 
 #logo {
     
     margin-top: 100px ;
+}
+
+ #titolo {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#footertitolo {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: grey;
+}
+
+#booleanerblu {
+    color: rgb(42, 173, 206);
+    
+}
+
+header {
+    margin: 5px;
 }
