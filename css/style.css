@@ -79,8 +79,13 @@ footer{
 h4{
     margin: auto;
     color: grey;
+    margin-bottom: 6px;
 }
 
 #monitor {
     margin-bottom: 8px;
+}
+
+.coloreint{
+    color: white;
 }
