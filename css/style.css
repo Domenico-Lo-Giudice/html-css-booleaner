@@ -1,5 +1,14 @@
 .container {
     height: 200px;
     background-image: url(../img/pattern.png);
+    
 }
 
+.logo {
+        width: 200px;
+        height: 0px;
+        background-position: center bottom;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+}
