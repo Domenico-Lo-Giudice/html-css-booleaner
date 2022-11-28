@@ -43,7 +43,7 @@ p#footerimages {
     margin-left: 5px;
 }
 
-#evidenziatesto1{
+#evidenziatesto{
     background-color: yellow;
 }
 
@@ -51,7 +51,36 @@ ul#puntilista{
     padding: 1%;
 }
 
-#primaint{
+.primaint p{
     margin-right: 50px;
+    width: 135px;
     
+}
+
+.terzaint p{
+    margin-right: 50px;
+    width: 135px;
+   
+}
+
+.intestazione {
+    background-color: #028FDE;
+
+}
+
+.cont {
+    background-color: rgb(149, 201, 231)
+}
+
+footer{
+    margin-left: 5px;
+}
+
+h4{
+    margin: auto;
+    color: grey;
+}
+
+#monitor {
+    margin-bottom: 8px;
 }
