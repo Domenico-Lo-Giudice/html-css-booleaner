@@ -1,11 +1,17 @@
+body{
+    
+    margin: 0px;
+}
+
 .container {
     background-color: rgb(67, 142, 204);
     background-image: url(../img/pattern.png);
+    
 
 }
 
 #logo {
-    
+   
     margin-top: 100px ;
 }
 
@@ -27,4 +33,20 @@
 
 header {
     margin: 5px;
+}
+
+p#footerimages {
+    margin: 0px;
+}
+
+#contenuto{
+    margin-left: 5px;
+}
+
+#evidenziatesto1{
+    background-color: yellow;
+}
+
+ul#puntilista{
+    padding: 1%;
 }
